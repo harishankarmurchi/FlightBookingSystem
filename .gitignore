@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TicketManagement/TicketManagement/bin/Debug/netcoreapp3.1
+/TicketManagement/TicketManagement/obj/Debug/netcoreapp3.1
+
+/FlightManagement/FlightManagement/bin/Debug/netcoreapp3.1
+/FlightManagement/FlightManagement/obj/Debug/netcoreapp3.1
+
+/UserManagement/UserManagement/bin/Debug/netcoreapp3.1
+/UserManagement/UserManagement/obj/Debug/netcoreapp3.1
